@@ -1,7 +1,5 @@
-github.com/cetcxinlian/cryptogm v0.0.0-20200806165024-f3ca35db27b0 h1:I31h6FrhkFK6Yt5aitWEcEeRzQ5Ue3llgC3c+9KqUas=
-github.com/cetcxinlian/cryptogm v0.0.0-20200806165024-f3ca35db27b0/go.mod h1:hjsTKNb4tfO2Ark9xcDuZnlrVB+nT2sFrs8ePjBUAnA=
-github.com/guijunchen/cryptogm v0.0.0-20201023020612-bd2d98c89a61 h1:t3Pt6qJenk0OzpzhYyw9vIdhv70fV4Dg2OQjwF2nSfg=
-github.com/guijunchen/cryptogm v0.0.0-20201023020612-bd2d98c89a61/go.mod h1:/TB1GE5OKxLvRsKCvD55u8f58v3X5AwL3MbWUL+7qp0=
+github.com/guijunchen/cryptogm v0.0.0-20201023024715-5601581ac2ac h1:iS7YGmfDpmo6ix+8yCsJiVhCbrVjcUtCh+o+2Z7yOsA=
+github.com/guijunchen/cryptogm v0.0.0-20201023024715-5601581ac2ac/go.mod h1:/TB1GE5OKxLvRsKCvD55u8f58v3X5AwL3MbWUL+7qp0=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
 golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
